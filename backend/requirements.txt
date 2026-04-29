@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+openai
+pydantic
+python-multipart
+pymupdf
+Pillow
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+fpdf2
